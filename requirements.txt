@@ -1,0 +1,16 @@
+torch
+torchvision
+torchsummary
+tensorflow
+keras
+numpy
+opencv-python
+matplotlib
+pandas
+scikit-learn
+scipy
+Flask
+Django
+Pillow
+requests
+tqdm
